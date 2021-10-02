@@ -9,13 +9,16 @@ made by Jaehyeok Choi
 
 ## How this works?
 ![course_button](https://github.com/Choi-JaeHyeok-21500749/flutter1/blob/main/1.JPG)
+
 First page
 
 
 ![course_button](https://github.com/Choi-JaeHyeok-21500749/flutter1/blob/main/2.JPG)
+
 If you touch the list tile, the star changed to yellow.
 
 ![course_button](https://github.com/Choi-JaeHyeok-21500749/flutter1/blob/main/3.JPG)
+
 If you touch the button on the top right button ( in the appbar) it shows what you touched (Favorite list).
 
 ## Where can I get more help, if I need it?
